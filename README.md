@@ -1,4 +1,4 @@
-There are 2 codes in our project.
+There are 2 codes in our project. "/n"
 The first one is app.py, which has the backend of our website.
 The backend is supported by 'flask' which is a production WSGI server based on python.
 The frontend is supported by Streamlit, a trusted source by 80% of the fortune 50, used to host the site.
